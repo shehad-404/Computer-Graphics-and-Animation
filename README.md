@@ -1,5 +1,5 @@
 # Drawing Project in CodeBlocks using OpenGL(Windows 64-bit)
-- Download and install codeblocks-20.03mingw-setup.exe from here.
+- Download and install codeblocks-20.03mingw-setup.exe from [here](https://www.codeblocks.org/downloads/binaries/).
 - Download this GLUT file.
 - Extract the file using WinRAR or another unzipper software.
 - Copy glut.h and paste it inside C:\Program Files\CodeBlocks\MinGW\include\GL
