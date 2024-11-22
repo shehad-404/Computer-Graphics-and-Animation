@@ -10,7 +10,7 @@
 - Create a new project in CodeBlocks and select the GLUT project. Give a name to your project.
 - Select the GLUT location as `C:\Program Files\CodeBlocks\MinGW`
 
-  ### If you install _CodeBlocks and MinGW separately_
+### If you install _CodeBlocks and MinGW separately_
 - Download the MinGW downloader from [here](https://sourceforge.net/projects/mingw/files/latest/download).
 - Install the basic package of MinGW and add the location `C:\MinGW\bin` to the Environment Variable path.
 - Download and install `codeblocks-20.03mingw-setup.exe` from [here](https://www.codeblocks.org/downloads/binaries).
